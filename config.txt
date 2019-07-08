@@ -1,0 +1,6 @@
+token=
+owner=ID 
+prefix=1
+game=type 1help
+stayinchannel=true
+songinstatus=true
